@@ -3,7 +3,7 @@
 session_start();
 
 $host = "localhost";
-$dbname = "test system";
+$dbname = "recordtrackingsystem";
 $username = "root";
 $dbpassword = "";
 
